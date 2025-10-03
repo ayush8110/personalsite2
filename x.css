@@ -41,6 +41,8 @@ hr{
     margin: 4px 0px 0px 0px;
     /* border: solid; */
     height: auto;
+    /* border: solid; */
+    gap: 10px;
 }
 
 .aboutme{
