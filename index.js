@@ -18,3 +18,8 @@ function scrollTolastContainer(){
         
     })
 }
+
+
+$(".bttn").click(function(){
+    $(".bttn").animate({margin:0})
+})
